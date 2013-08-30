@@ -1,0 +1,53 @@
+*{
+	color: #5C5C64;
+}
+
+h1{
+	margin: 10px 0 70px 0;
+	font-weight: 100;
+}
+
+h3{
+	margin-bottom: 45px;
+	font-weight: 200;
+}
+
+h4{
+	font-weight: 200;
+	color: #246BB2;
+	font-size: 21.5px;
+}
+
+h5{
+	margin: -17px 0;
+}
+
+hr{
+	margin: 45px 0;
+}
+
+p{
+	margin-right: 10px;
+	font-size: 15px;
+}
+
+.recolhap{
+	font-family: 'Play', cursive;
+	color: #CC0000;
+	font-weight: bold;
+	margin: 130px 0 10px 0;
+	font-size: 54px;
+	opacity: 0.75;
+}
+
+
+.instruction{
+	margin: 15px 0 70px 0;
+	line-height: 20px;
+
+}
+
+
+.volver{
+	text-align: right;
+}
